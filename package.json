@@ -1,6 +1,6 @@
 {
   "name": "vite-react-typescript-starter",
-  "homepage": "https://fxtrader016.github.io/hideMyApiKeys/",
+  "homepage": "https://fxtrader016.github.io/gemini-flash-aiStudio/",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "vscode:prepublish": "gh-pages --dist dist"
+    "deploy": "gh-pages --dist dist"
   },
   "dependencies": {
     "@google/generative-ai": "^0.2.1",
